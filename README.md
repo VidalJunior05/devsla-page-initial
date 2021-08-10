@@ -7,7 +7,7 @@
 
 # Index
 - [About](#-about)
-- [How to download the project](#-How-to-download-the-project)
+
 
 # 📜 About
 Project **Devsla**, creating using 
